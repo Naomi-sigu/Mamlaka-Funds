@@ -1,0 +1,7 @@
+Questions I can answer using this dataset
+1. which country received the highest total aid funding? bar
+2. what is the distribution of aid types? pie/bar
+3. Is there any gender imbalances?
+4. which regions recieved the highest average aid per beneficiary?
+5. how has aid distribution changed over time?
+6. are big families receiving more financial supp?
